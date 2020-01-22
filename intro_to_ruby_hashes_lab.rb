@@ -13,6 +13,9 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  new_list = {
+    :name => "Grace Hopper"
+  }
 end
 
 def id_generator
